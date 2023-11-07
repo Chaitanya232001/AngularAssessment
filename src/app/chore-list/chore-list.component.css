@@ -1,0 +1,13 @@
+.container{
+    display: inline-block;
+        width: 30%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        height: 650px;
+        vertical-align: middle;
+        background-color:lightcoral;
+       
+}
+h2{
+    text-align: center;
+}

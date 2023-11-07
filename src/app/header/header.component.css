@@ -1,0 +1,8 @@
+h1{
+    color: aqua;
+    background-color: black;
+    text-align: center;
+}
+h1:hover{
+    color: darkgrey;
+}
